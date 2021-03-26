@@ -1,0 +1,10 @@
+[
+{"url": "https://webscraper.io/test-sites"},
+{"title": "E-commerce site"},
+{"title": "E-commerce site with pagination links"},
+{"title": "E-commerce site with popup links"},
+{"title": "E-commerce site with AJAX pagination links"},
+{"title": "E-commerce site with \"Load more\" buttons"},
+{"title": "E-commerce site that loads items while scrolling"},
+{"title": "Table playground"}
+]
